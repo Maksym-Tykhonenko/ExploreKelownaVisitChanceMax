@@ -1,0 +1,378 @@
+[
+  {
+    "id": "1",
+    "title": "Kelowna Wine Tasting Festival",
+    "description": "Discover the finest wines from local wineries in Kelowna.",
+    "category": "Food & Drink",
+    "date": "2023-11-15",
+    "location": "Downtown Kelowna"
+  },
+  {
+    "id": "2",
+    "title": "Kelowna Art & Culture Expo",
+    "description": "Explore the vibrant art scene with exhibits from local artists.",
+    "category": "Arts & Culture",
+    "date": "2023-11-20",
+    "location": "Kelowna Art Gallery"
+  },
+  {
+    "id": "3",
+    "title": "Knox Mountain Hiking Adventure",
+    "description": "Join a guided hike to experience the breathtaking views of Kelowna.",
+    "category": "Outdoor",
+    "date": "2023-11-25",
+    "location": "Knox Mountain Park"
+  },
+  {
+    "id": "4",
+    "title": "Live Music Night",
+    "description": "Enjoy live performances by local bands and artists.",
+    "category": "Music",
+    "date": "2023-12-01",
+    "location": "Kelowna Community Theatre"
+  },
+  {
+    "id": "5",
+    "title": "Kelowna Farmers Market",
+    "description": "Shop for fresh produce, handmade crafts, and local goods.",
+    "category": "Shopping",
+    "date": "2023-12-05",
+    "location": "Kelowna Farmers Market"
+  },
+  {
+    "id": "6",
+    "title": "Winter Wonderland Festival",
+    "description": "Celebrate the holiday season with ice skating, food stalls, and live entertainment.",
+    "category": "Seasonal",
+    "date": "2023-12-15",
+    "location": "Stuart Park"
+  },
+  {
+    "id": "7",
+    "title": "Kelowna Food Truck Fiesta",
+    "description": "Taste delicious dishes from a variety of food trucks.",
+    "category": "Food & Drink",
+    "date": "2023-12-20",
+    "location": "City Park"
+  },
+  {
+    "id": "8",
+    "title": "Kelowna History Walk",
+    "description": "Learn about the rich history of Kelowna on this guided walking tour.",
+    "category": "Educational",
+    "date": "2023-12-22",
+    "location": "Downtown Kelowna"
+  },
+  {
+    "id": "9",
+    "title": "Outdoor Movie Night",
+    "description": "Watch classic movies under the stars with family and friends.",
+    "category": "Entertainment",
+    "date": "2023-12-30",
+    "location": "Waterfront Park"
+  },
+  {
+    "id": "10",
+    "title": "New Year's Eve Fireworks",
+    "description": "Ring in the new year with a spectacular fireworks display.",
+    "category": "Seasonal",
+    "date": "2023-12-31",
+    "location": "Kelowna Waterfront"
+  },
+  {
+    "id": "11",
+    "title": "Kelowna Jazz Festival",
+    "description": "Enjoy performances by renowned jazz musicians.",
+    "category": "Music",
+    "date": "2024-01-10",
+    "location": "Kelowna Community Theatre"
+  },
+  {
+    "id": "12",
+    "title": "Kelowna Winter Wine Tour",
+    "description": "Visit local wineries and enjoy seasonal wine tastings.",
+    "category": "Food & Drink",
+    "date": "2024-01-15",
+    "location": "Various Wineries"
+  },
+  {
+    "id": "13",
+    "title": "Kelowna Ice Climbing Workshop",
+    "description": "Learn the basics of ice climbing with expert instructors.",
+    "category": "Outdoor",
+    "date": "2024-01-20",
+    "location": "Myra Canyon"
+  },
+  {
+    "id": "14",
+    "title": "Kelowna Book Fair",
+    "description": "Browse and purchase books from local authors and publishers.",
+    "category": "Educational",
+    "date": "2024-01-25",
+    "location": "Kelowna Public Library"
+  },
+  {
+    "id": "15",
+    "title": "Kelowna Craft Beer Festival",
+    "description": "Sample craft beers from Kelowna's best breweries.",
+    "category": "Food & Drink",
+    "date": "2024-02-05",
+    "location": "Downtown Kelowna"
+  },
+  {
+    "id": "16",
+    "title": "Kelowna Valentine's Day Gala",
+    "description": "Celebrate love with a romantic evening of dining and dancing.",
+    "category": "Seasonal",
+    "date": "2024-02-14",
+    "location": "Delta Hotels by Marriott"
+  },
+  {
+    "id": "17",
+    "title": "Kelowna Film Festival",
+    "description": "Watch independent films and meet the filmmakers.",
+    "category": "Entertainment",
+    "date": "2024-02-20",
+    "location": "Kelowna Community Theatre"
+  },
+  {
+    "id": "18",
+    "title": "Kelowna Spring Market",
+    "description": "Shop for spring-themed crafts, plants, and local goods.",
+    "category": "Shopping",
+    "date": "2024-03-10",
+    "location": "Kelowna Farmers Market"
+  },
+  {
+    "id": "19",
+    "title": "Kelowna Cherry Blossom Festival",
+    "description": "Celebrate the beauty of cherry blossoms with music, food, and art.",
+    "category": "Seasonal",
+    "date": "2024-04-15",
+    "location": "City Park"
+  },
+  {
+    "id": "20",
+    "title": "Kelowna Marathon",
+    "description": "Participate in or cheer on runners in this annual marathon.",
+    "category": "Sports",
+    "date": "2024-05-05",
+    "location": "Downtown Kelowna"
+  },
+  {
+    "id": "21",
+    "title": "Kelowna Yoga Retreat",
+    "description": "Relax and rejuvenate with a weekend yoga retreat.",
+    "category": "Wellness",
+    "date": "2024-05-15",
+    "location": "Okanagan Lake Resort"
+  },
+  {
+    "id": "22",
+    "title": "Kelowna Food & Wine Pairing Workshop",
+    "description": "Learn how to pair food and wine like a pro.",
+    "category": "Food & Drink",
+    "date": "2024-05-20",
+    "location": "Kelowna Culinary School"
+  },
+  {
+    "id": "23",
+    "title": "Kelowna Outdoor Adventure Expo",
+    "description": "Explore the latest outdoor gear and activities.",
+    "category": "Outdoor",
+    "date": "2024-05-25",
+    "location": "Kelowna Convention Centre"
+  },
+  {
+    "id": "24",
+    "title": "Kelowna Summer Music Festival",
+    "description": "Enjoy live music performances by top artists.",
+    "category": "Music",
+    "date": "2024-06-01",
+    "location": "City Park Amphitheatre"
+  },
+  {
+    "id": "25",
+    "title": "Kelowna Art Walk",
+    "description": "Stroll through downtown Kelowna and admire local art.",
+    "category": "Arts & Culture",
+    "date": "2024-06-10",
+    "location": "Downtown Kelowna"
+  },
+  {
+    "id": "26",
+    "title": "Kelowna Paddleboarding Championship",
+    "description": "Watch or participate in the annual paddleboarding race.",
+    "category": "Sports",
+    "date": "2024-06-15",
+    "location": "Okanagan Lake"
+  },
+  {
+    "id": "27",
+    "title": "Kelowna Craft Fair",
+    "description": "Shop for handmade crafts and unique gifts.",
+    "category": "Shopping",
+    "date": "2024-06-20",
+    "location": "Kelowna Farmers Market"
+  },
+  {
+    "id": "28",
+    "title": "Kelowna Science Fair",
+    "description": "Explore interactive exhibits and science demonstrations.",
+    "category": "Educational",
+    "date": "2024-06-25",
+    "location": "Kelowna Science Centre"
+  },
+  {
+    "id": "29",
+    "title": "Kelowna Summer Solstice Celebration",
+    "description": "Celebrate the longest day of the year with music and food.",
+    "category": "Seasonal",
+    "date": "2024-06-21",
+    "location": "City Park"
+  },
+  {
+    "id": "30",
+    "title": "Kelowna Film Screening Series",
+    "description": "Watch classic and contemporary films every weekend.",
+    "category": "Entertainment",
+    "date": "2024-07-01",
+    "location": "Kelowna Community Theatre"
+  },
+  {
+    "id": "31",
+    "title": "Kelowna Beach Volleyball Tournament",
+    "description": "Join or watch teams compete in this exciting tournament.",
+    "category": "Sports",
+    "date": "2024-07-05",
+    "location": "Gyro Beach"
+  },
+  {
+    "id": "32",
+    "title": "Kelowna Jazz in the Park",
+    "description": "Enjoy smooth jazz performances in a beautiful outdoor setting.",
+    "category": "Music",
+    "date": "2024-07-10",
+    "location": "Waterfront Park"
+  },
+  {
+    "id": "33",
+    "title": "Kelowna Culinary Festival",
+    "description": "Taste dishes from Kelowna's top chefs and restaurants.",
+    "category": "Food & Drink",
+    "date": "2024-07-15",
+    "location": "Downtown Kelowna"
+  },
+  {
+    "id": "34",
+    "title": "Kelowna Outdoor Art Exhibit",
+    "description": "Admire large-scale art installations in the park.",
+    "category": "Arts & Culture",
+    "date": "2024-07-20",
+    "location": "City Park"
+  },
+  {
+    "id": "35",
+    "title": "Kelowna Astronomy Night",
+    "description": "Gaze at the stars with telescopes and expert guides.",
+    "category": "Educational",
+    "date": "2024-07-25",
+    "location": "Knox Mountain Park"
+  },
+  {
+    "id": "36",
+    "title": "Kelowna Summer Carnival",
+    "description": "Enjoy rides, games, and food at this family-friendly event.",
+    "category": "Entertainment",
+    "date": "2024-08-01",
+    "location": "City Park"
+  },
+  {
+    "id": "37",
+    "title": "Kelowna Triathlon",
+    "description": "Compete in or cheer on athletes in this challenging race.",
+    "category": "Sports",
+    "date": "2024-08-10",
+    "location": "Okanagan Lake"
+  },
+  {
+    "id": "38",
+    "title": "Kelowna Poetry Slam",
+    "description": "Listen to powerful performances by local poets.",
+    "category": "Arts & Culture",
+    "date": "2024-08-15",
+    "location": "Kelowna Public Library"
+  },
+  {
+    "id": "39",
+    "title": "Kelowna Food & Wine Festival",
+    "description": "Celebrate the best of Kelowna's food and wine scene.",
+    "category": "Food & Drink",
+    "date": "2024-08-20",
+    "location": "Downtown Kelowna"
+  },
+  {
+    "id": "40",
+    "title": "Kelowna Outdoor Yoga Session",
+    "description": "Join a relaxing yoga session by the lake.",
+    "category": "Wellness",
+    "date": "2024-08-25",
+    "location": "Waterfront Park"
+  },
+  {
+    "id": "41",
+    "title": "Kelowna Harvest Festival",
+    "description": "Celebrate the fall harvest with food, music, and crafts.",
+    "category": "Seasonal",
+    "date": "2024-09-10",
+    "location": "Kelowna Farmers Market"
+  },
+  {
+    "id": "42",
+    "title": "Kelowna Photography Workshop",
+    "description": "Learn photography tips and tricks from professionals.",
+    "category": "Educational",
+    "date": "2024-09-15",
+    "location": "Kelowna Art Gallery"
+  },
+  {
+    "id": "43",
+    "title": "Kelowna Oktoberfest",
+    "description": "Enjoy German food, beer, and music at this festive event.",
+    "category": "Food & Drink",
+    "date": "2024-10-01",
+    "location": "Downtown Kelowna"
+  },
+  {
+    "id": "44",
+    "title": "Kelowna Halloween Spooktacular",
+    "description": "Celebrate Halloween with costumes, games, and treats.",
+    "category": "Seasonal",
+    "date": "2024-10-31",
+    "location": "City Park"
+  },
+  {
+    "id": "45",
+    "title": "Kelowna Winter Market",
+    "description": "Shop for holiday gifts and enjoy seasonal treats.",
+    "category": "Shopping",
+    "date": "2024-11-15",
+    "location": "Kelowna Farmers Market"
+  },
+  {
+    "id": "46",
+    "title": "Kelowna Holiday Lights Tour",
+    "description": "Take a guided tour of Kelowna's best holiday light displays.",
+    "category": "Seasonal",
+    "date": "2024-12-01",
+    "location": "Various Locations"
+  },
+  {
+    "id": "47",
+    "title": "Kelowna New Year's Eve Gala",
+    "description": "Ring in the new year with a night of dining and dancing.",
+    "category": "Seasonal",
+    "date": "2024-12-31",
+    "location": "Delta Hotels by Marriott"
+  }
+]
